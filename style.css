@@ -6,10 +6,10 @@ h1 {
     text-align: center;
 }
 
-.container { 
+.content {
     margin: 0 auto;
     width: 800px;
-    text-align: center; 
+    text-align: center;
 }
 
 .clickable {
